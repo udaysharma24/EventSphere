@@ -1,0 +1,201 @@
+College_ID,First Name,Last Name,Email,Designation,Department,Office,hashedpassword
+F604,Karley,Hills,karleyhills@lnmiit.ac.in,Visiting Faculty,IT,101,$2b$10$nai5iHXiCgrTPiAnRXe9oe8Mtg5Lj1/woB9TQyPuxu1ya2AEis8tC
+F101,Francis,Gorczany,francisgorczany@lnmiit.ac.in,Professor,Mathematics,1682,$2b$10$S4RlrXPu6N9.E6PE1aR22OWcncXLPgatYxzIwAx5bHJrQyWqYtpUK
+F648,Erling,Gutmann,erlinggutmann@lnmiit.ac.in,Professor,Mathematics,341,$2b$10$qaK31lYPKNiU74TA8qIo6.P1R2q0EBvXuwS9ClUr2/CEFkb1h7Mb.
+F1445,Gideon,Sanford,gideonsanford@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),644,$2b$10$r0jAZjmp0j9a/wK7kAe9Wuy.wByplyR5XS3ueubUSxSHHmKIVvHY6
+F544,Bette,Treutel-Larson,bettetreutel-larson@lnmiit.ac.in,Associate Professor,Mathematics,1392,$2b$10$Qay46AST/zvV94wICSGuL.3xXFoqFiPVLCMrLQXQbBnZBARMLTb6a
+F472,Brittany,Tillman,brittanytillman@lnmiit.ac.in,Visiting Faculty,IT,347,$2b$10$SeIhy//ssSZ3NnBgpzY9z.CH2hvtUqEmliENVmBr21Dn.BPusfNAi
+F906,Silas,Luettgen,silasluettgen@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),571,$2b$10$7qrB58aLzG/RYJK5FiZJgO4gP8JZNfMcJbGPYEPmu83yUMbAmQW2G
+F696,Brooklyn,Moen,brooklynmoen@lnmiit.ac.in,Assistant Professor,Mathematics,1163,$2b$10$KV0kf0Vln3wDcDWV91yA.eoLN1IjwCg2H.GSeg0QBn6VLKOSMMCAe
+F617,Webster,Cremin,webstercremin@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1122,$2b$10$aTj1oR3t/Nmi9xw3qtvHge/fIkjJnPBi.NXyf03BuSlfNiSup8twa
+F992,Forrest,Sawayn,forrestsawayn@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),123,$2b$10$qG7CxO2LuvGTDRniF7NS5eGzuGOFTKTBFw7dZPK/htndW3PD8rfCC
+F789,Skye,Thompson-Weber,skyethompson-weber@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),1168,$2b$10$ut1gY3pHjI51Qxm3Tov.x.O2MmAfnNcKowJC9KUsgH3di07YhSC8W
+F1275,Ethel,Collier,ethelcollier@lnmiit.ac.in,Assistant Professor,Mathematics,1710,$2b$10$qqPeB4rFrz7Aj7Yamdgou.2xq8ofQgD.5YnlRdUn5RXkGc1D.dzFq
+F944,Alec,Wintheiser,alecwintheiser@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1552,$2b$10$QSKG82GSdTHJSBHeHi/3AettYLLr16v5XKNUe/UaHaPareLISRX7O
+F77,Margarete,Hills,margaretehills@lnmiit.ac.in,Visiting Faculty,IT,1966,$2b$10$Gbm08a6TagvVRynTmnjYXO.pk6Qs/PeuSCFO6732BccQJpW4SUpEy
+F883,Vincenzo,Heathcote,vincenzoheathcote@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),1097,$2b$10$8tvx5UdySdtt5ZIcgASZ4ub.rLrOZr0IjVJLEX3Pk6/vCdFwJ1kN6
+F547,Layne,Heidenreich,layneheidenreich@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),1409,$2b$10$KBvpXFX83vS510lJfZZQJ..0GKA47FxjRafZv/aTGsZbxWn28HXW.
+F946,River,Kuhic,riverkuhic@lnmiit.ac.in,Assistant Professor,IT,877,$2b$10$oBQSTPLocU6I3tYsoXINlugY7s5b3McDJFx4zJx8J2dXj8BOehCMG
+F1520,Kiley,Hand,kileyhand@lnmiit.ac.in,Assistant Professor,Humanities,1192,$2b$10$cIB7Nkpt86Fe0UveMrSMn.ib3ZLpq.CeNdP/0oR1fMBSVrt7jO8Xm
+F1929,Ethyl,Kutch,ethylkutch@lnmiit.ac.in,Associate Professor,Humanities,1131,$2b$10$pP1zbYkio82AYof5wsuqJeevS204bSDH0QsDxc73aJnBJIyL3Fx6m
+F1224,Stewart,McCullough,stewartmccullough@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),254,$2b$10$u7if9cqG2Hej9PGoEA2CRekpK4sRrE1IBM7ZbBE8/TfpTY8lM5bz6
+F587,Giles,Hammes,gileshammes@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),228,$2b$10$SyIoKH5wzJtlqMBFjwmM5uogoq9jfCRDBvnIF0HYibt4LZRezd5s.
+F600,Walker,Stanton,walkerstanton@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),211,$2b$10$AIw5vcPSRJfcjQmO3Ff7nO470v39Gppqps4oSsg37ubSAoBiOGDti
+F1625,Cara,Leuschke,caraleuschke@lnmiit.ac.in,Associate Professor,IT,1627,$2b$10$KDkLFa.IE916c.05tnJOmusLGUNbSrY2A4mtceDiVe.rtu3F99WNK
+F666,Madeline,Krajcik,madelinekrajcik@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),1867,$2b$10$1X6.1rz/MYcX/qKsHyQqIe0AQM3DZtuB9Mt3QW9OvVZgRmc8zQdEm
+F551,Dolly,Walker,dollywalker@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),735,$2b$10$yrXeqp64.fHHpv6o.C2kPeUA./cVMU3aDtT5Olh9q4YRI5jcM4oTe
+F71,Oliver,Auer,oliverauer@lnmiit.ac.in,Professor,Mechanical Engineering(ME),1871,$2b$10$4vHb6XP/9Gg44iLmy/H5rOptN7PHNfCrduo2Z8Ko.UEIx8YOI9p1K
+F897,Denis,Parisian,denisparisian@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),1347,$2b$10$x3uaoU/CQ3WH8Y/FPK.REOw1mlpVCmi9iqzLrlcSJsHsL17bYEJd2
+F875,Rashad,Cartwright,rashadcartwright@lnmiit.ac.in,Associate Professor,Computer Science(CSE),1111,$2b$10$aLh3M9kc1DRqHKrUHg/hoewgvN/JaOUnrKKm8TZSSb7B3RQoj7kPa
+F1203,Felicita,Wisozk,felicitawisozk@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),1232,$2b$10$IXSs3vz.wB3/mP0WcTxhP.rofocMNkM9DDyCwvYTlqGvXz8ImGnkC
+F0,Alexandra,Kassulke,alexandrakassulke@lnmiit.ac.in,Professor,Electronics and Communication(ECE),1774,$2b$10$Xf4j1peBqWivyR2DTdZWOeFC.8u7vA6CG5/sa63uz8bjZjPujl0WG
+F357,Mikayla,Gorczany,mikaylagorczany@lnmiit.ac.in,Visiting Faculty,IT,501,$2b$10$RgCct7EYa0arGZylcCN.L.EOtFMQirk1sfatWIMWSf2VevaW4C9O6
+F65,Cheyenne,Bogan,cheyennebogan@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),372,$2b$10$5QnwslzP8ddii9Hx6PmOgOZswZhoXFY76LCh0NMzVb6AL4ENy6W7K
+F534,Shaun,Steuber,shaunsteuber@lnmiit.ac.in,Visiting Faculty,Humanities,83,$2b$10$6J/DcFOg8qhhpSX5qkxh7.53lOAViyoYBo9DJ8lY4hPFNZyMQodtm
+F541,Jaclyn,Moore,jaclynmoore@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),1916,$2b$10$yvkDJMi0C1MC5dvis3t8suGI9ShFNXQ7lK0siIQKpPIAnl2F93ppm
+F1010,Jaquan,Kertzmann,jaquankertzmann@lnmiit.ac.in,Professor,Humanities,1305,$2b$10$XlPY5YGz1Dm7qrVytYKGj.xXug5o2HgD0eX6x2snxUk9vFQ9nLqq6
+F675,Madge,Lynch,madgelynch@lnmiit.ac.in,Assistant Professor,Mechanical Engineering(ME),1713,$2b$10$imPF8ALft9a75BT6acK8FuWrhJpnsAuErwYT0ZWwDDzWzms4oVZAC
+F1838,Maci,Franey,macifraney@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),775,$2b$10$euGTH.0Pa48tDqEF/LZ2buSAEhfHef1XzcZB8QDb0OQwmOJI/npge
+F171,Theo,Satterfield,theosatterfield@lnmiit.ac.in,Associate Professor,Mathematics,1141,$2b$10$l3h2FXgeUYT9uwu/zeFrsedqWGUstEOEzk8v9lCxGzbAbH7ukyczW
+F1433,Chadrick,Daniel,chadrickdaniel@lnmiit.ac.in,Visiting Faculty,Humanities,1566,$2b$10$Mg1LRKiiSUKPXb6ie9xvzuWofbAVDPOM5fQnqcyRolgoHO0AbRa1C
+F34,Webster,Hoppe,websterhoppe@lnmiit.ac.in,Professor,Computer Science(CSE),1727,$2b$10$2UYI8JkzszlSRZl1NOlKte8raxXK1vRZUjh7e06IKwAHvrMORjZH2
+F1948,Demario,Deckow,demariodeckow@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),642,$2b$10$CM4fjoUT7JG1ZsHaip41Iu5jOyqd8PAU0L2Owzu1A4/k5ebhzaqOm
+F1697,Nikko,Mraz,nikkomraz@lnmiit.ac.in,Professor,Communication and Computer(CCE),1114,$2b$10$/dxHN3J78I4tSMjzotM.GO/W4gSJiw2UGC1pla8WZVNS1Db00xIly
+F1320,Dante,Bergnaum-Flatley,dantebergnaum-flatley@lnmiit.ac.in,Assistant Professor,Humanities,1085,$2b$10$pQNr7.3r0MXvp8fV2Ozuh.7L5fox.FaZ3g2snIuCm4WeI73/kG9wC
+F1864,Chandler,Sanford,chandlersanford@lnmiit.ac.in,Professor,Humanities,1096,$2b$10$i/kAfkG75qvNb6aPcO9X..r9Yz.GkLSIdvMYuApjOc/SylzfewRkq
+F364,Dandre,Stracke,dandrestracke@lnmiit.ac.in,Assistant Professor,IT,1239,$2b$10$oJ9v5ggk34nPL9b/PPCwquTyJxuHWJE2b7nX9X60x8DfI..KwlZju
+F255,Audie,VonRueden,audievonrueden@lnmiit.ac.in,Professor,Mechanical Engineering(ME),729,$2b$10$a655CUsUjo3tFf8TgohL8u7LH6YvhssXAQDq8Uhq3BYwPfFcvLUfm
+F997,Leland,West,lelandwest@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),600,$2b$10$Z09rohi2UthKSTRibXKAyuPphgZ0fXCh1VwRj1tv7RNXuXgdRZp72
+F1236,Jonatan,Herzog,jonatanherzog@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),39,$2b$10$5MlHB3sVVQAEx0eO9epyw.L7L9bsOwpya.44GpSjun4VNK8DkNlUO
+F607,Harmony,Lueilwitz-Wilkinson,harmonylueilwitz-wilkinson@lnmiit.ac.in,Professor,Humanities,900,$2b$10$3aFaEW4uO0bhFLQmbrP6COUHwm6lVK2D1oC4hpCDI04uba0.4eGne
+F1117,Jess,Greenfelder,jessgreenfelder@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),372,$2b$10$fJwI.2SQE4/FWOqN7zws4ufETI.wZ0DeHDW6riySpYMEKp4f5WFhO
+F1510,Murphy,Treutel,murphytreutel@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),148,$2b$10$.wYuKLIcHpae1OiWLYlXtuGiIl8MhmXHeJCs8KTGQlEIeiBlAOY.y
+F1243,Oswaldo,Considine,oswaldoconsidine@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),1784,$2b$10$pox8eQv//ot/qmJz71inx.IuNSxySRfOy0lqgqGZfTPmvJAZrWrSS
+F1017,Winona,Prosacco,winonaprosacco@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),458,$2b$10$09hWG86530.DR9mcytqgR.bfBULmapBST/s0rf2yW8eJwxqSAm9MW
+F1485,Bria,White,briawhite@lnmiit.ac.in,Assistant Professor,Mathematics,112,$2b$10$C.9.zAOm.17xtZO00GHrQucqdZdqtstCLKU84miZfzFggI0YH8PCa
+F1571,Willa,Zulauf,willazulauf@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),1536,$2b$10$TlDnwwR/FsIg.cU/8wLlsOdCB182LmNF8BlNb0q.2pTyfcU.Ic0oG
+F927,Lamont,Greenfelder,lamontgreenfelder@lnmiit.ac.in,Professor,Mathematics,528,$2b$10$Wek8uvWpN2Ml1AqXtEUdauWqPEgeWLu9X0pLg7ALvtyLu4mq1u7O6
+F369,Mabelle,Jenkins,mabellejenkins@lnmiit.ac.in,Professor,IT,697,$2b$10$5nz8Lj1ldWMBsainf59lNO9B101GbwQPrpbVDhJKLYf3TkFjcG8f.
+F1505,Misty,Tillman,mistytillman@lnmiit.ac.in,Professor,Humanities,1885,$2b$10$hBPI/q19jMoXNDIYI.L3BuObdlw7qb3O7KdulPnq6j/7m9Ede3/wa
+F558,Hillary,Ritchie,hillaryritchie@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),200,$2b$10$B7FlMvML37sDXZMB4uJ9teSo60HfVXu3DP3C.rV06YWtKWUYJb/Bq
+F1866,Annetta,Pouros,annettapouros@lnmiit.ac.in,Professor,Mathematics,1967,$2b$10$QQAQd0iFW7r0hkRNObJqCusNFzDka31P7jHwRDU9Dy.2C1wuguqdq
+F377,Linda,Becker,lindabecker@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),1440,$2b$10$z8TLVl2BhAiz1X1iRFnKK.FgxvD4nMuP8/4nkr/DHXcfGzvEshoc.
+F897,Ali,Windler,aliwindler@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),78,$2b$10$Kx55dWFRW9FLGpRDPF7IKuwEAlrR1O4J.6BBcR105iwLdwCDTNT7C
+F468,Carlotta,Skiles,carlottaskiles@lnmiit.ac.in,Visiting Faculty,Humanities,1291,$2b$10$pXFsi0gI3GGzQ6dREHXDcOPwUobD8RSmfn5xnBLjLipAlK67s3beq
+F985,Jaycee,Larson,jayceelarson@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),1500,$2b$10$rORxTfJcUGFU2rgHkPsgceQP0hySqIzhpewZ8TC0qwrSYfiNWQ5s.
+F959,Bryana,Heidenreich,bryanaheidenreich@lnmiit.ac.in,Visiting Faculty,IT,76,$2b$10$ES9z6d1in.NWe8ir5Q5Ipe6nrGXAGG1NQj5SlT.QznRKRG5aXqLw.
+F266,Ashleigh,Turner,ashleighturner@lnmiit.ac.in,Visiting Faculty,IT,1820,$2b$10$0uKaBSJhYwjvN/WJ5MeL9OObxVYOG64nHaRXpO17CLHBchojs1QOO
+F1512,Jacinthe,Abernathy,jacintheabernathy@lnmiit.ac.in,Professor,IT,1435,$2b$10$WuKS2/1HaiRrQ9Uw7Xy1V.584jmeOsi7hNOy3.2IIUNr5p8XYkqGa
+F823,Cathrine,Erdman-Friesen,cathrineerdman-friesen@lnmiit.ac.in,Associate Professor,Humanities,59,$2b$10$n1jqFIJopzhVXvJBsTmN2eIMY0FuOYWxnOS/5s.sSdKHs1ukpZuaO
+F850,Luigi,Lynch,luigilynch@lnmiit.ac.in,Professor,Mechanical Engineering(ME),1391,$2b$10$mGjwswm92f3aK5QXZCfuWesp1lIYePvFlKyogmSsdhUuiVXqa6B22
+F1244,Timothy,Mertz,timothymertz@lnmiit.ac.in,Professor,IT,1753,$2b$10$v4Fulx1PjhAN0WFEHlicjuAkZeFXoznLEM2nJasVsrWHbb29bYzya
+F1895,Ward,Nienow,wardnienow@lnmiit.ac.in,Associate Professor,Humanities,473,$2b$10$Zd85Tx/LoEW8CVDkQ967leRaLGuwSHFOAGJ3MDUpVeahSOszy93Ou
+F1097,Else,Bradtke-Wisozk,elsebradtke-wisozk@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),679,$2b$10$nwnO9CH6iu5CVNOHaHsGxOzhfLsSKczvk6FAxtmO0wEDOcrDUDewa
+F1559,Ceasar,Volkman,ceasarvolkman@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),547,$2b$10$zwgXBIWeY1dviWY.1P19duLa3Q9ooQo0Q2ckkuIGdAATIzhOTPKxK
+F1219,Simeon,Pouros,simeonpouros@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),498,$2b$10$StVgOefXLlWDIXvHnoGHWODWI8VYUtsRDPrvRG3AE2zmu22.Ev/2m
+F1003,Trevor,Hilll,trevorhilll@lnmiit.ac.in,Professor,Humanities,1047,$2b$10$R4wJ7lQBo/PfqyRgTvREUuLAko6UjTppyOfojd3C8lC9aCoVDCPhS
+F565,Rosalee,Treutel,rosaleetreutel@lnmiit.ac.in,Visiting Faculty,IT,344,$2b$10$XlRi.daLQj7rhgYQ/xD9ae3ADILYjMZMHUfCrAI2jBDIcNiSoga9S
+F56,Tatum,Rau,tatumrau@lnmiit.ac.in,Assistant Professor,IT,145,$2b$10$Ha8y/AcyvEiSB/6c8cNH..X2B7A1TvTcLX15kszlWQt2I9Iu1fHBi
+F1387,Giovanna,Langosh,giovannalangosh@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1845,$2b$10$ixRluIgzpbX78vIUOBx/1OLnLAU/DOZAJbiF/arkd84fsP0o38lvC
+F110,Fredrick,Schmeler,fredrickschmeler@lnmiit.ac.in,Professor,Computer Science(CSE),110,$2b$10$9V/rDi13dkSJCtNFIVSGuOjTtt4j.3Rnz9GWGknyCw7HKKiDUbPVa
+F1307,Tavares,McClure,tavaresmcclure@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),314,$2b$10$8LgGGo2alf1N8zLgOkU9ruaFX39B3zTHG0WnKtmNrzh.lW2qyt7uK
+F913,Milan,Muller,milanmuller@lnmiit.ac.in,Visiting Faculty,Humanities,128,$2b$10$JJazm4AAHEYq23eVBXilReI34FdPYVpezSioTIg3AQRpmSyWc/78u
+F1792,Juana,Gulgowski,juanagulgowski@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),1663,$2b$10$WuMeYmej8Ny/KIyHQ36EJexHa8h1mm2RjHxjImP9N2wip.wFVgl96
+F1316,Quinton,Kshlerin,quintonkshlerin@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1643,$2b$10$OS1rtNYeibO5ztmAgCZ9De1KIZA.Ls8fuiCMK2Nb6wl1shObg.462
+F1849,Rachael,McGlynn,rachaelmcglynn@lnmiit.ac.in,Assistant Professor,IT,1634,$2b$10$8V3DZdT8Xej2.7R2rUFSquptYXlwhuIYYnSsddsQusg75MteEejzO
+F1293,Cruz,Beatty,cruzbeatty@lnmiit.ac.in,Assistant Professor,Humanities,1315,$2b$10$H.qAyejP.FHF5HXDxrhDEODgJGu/W.9OHfdhpNazIz.sOHMWU2vm2
+F765,Lloyd,Pagac,lloydpagac@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),779,$2b$10$lB8qb3Os9Sr.U3TmypXBLO9ktYxr3KJ08.HF70/92j8cyokbkTJUW
+F1090,Amelia,Schoen,ameliaschoen@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),263,$2b$10$m4OpkXvAPTLpMIR4rB0l2e01ZirmL0RBQWCWZYE5WYRCaToUsYs9m
+F1668,Kendrick,Kessler,kendrickkessler@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),1199,$2b$10$9M5kKFDADRtyoq8MFHdml.ejXcKo4Bo4egrxpjOb0G4wmUH7IEhG.
+F212,Alysson,Krajcik,alyssonkrajcik@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1044,$2b$10$0dhmKAlskda31U6ehm4zOO30fvOeu2PULirpiaEEhyTan9Clmjo3S
+F1981,Judy,Rosenbaum,judyrosenbaum@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),510,$2b$10$NlfQt7SrReQYLiFj1NL2AO5FJWxyjHl3dV1q7UwglXESyx4zfMt/W
+F119,Bridgette,Rodriguez,bridgetterodriguez@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1735,$2b$10$Wxi429OyxgHVrn4DgrS9X.g0j4ZFd44nACtnhko410tuhtYJM88Su
+F705,Conner,Hahn,connerhahn@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),1300,$2b$10$CL5TZA21akoGP.uhQcA9tux3cWSKwT7WK0bDQ11G2gq6ZujffN6WC
+F1038,Keanu,Frami,keanuframi@lnmiit.ac.in,Assistant Professor,Mathematics,1301,$2b$10$S/aLhLzxzZznDf3Nw3xDu..4YD5mBc3OaHSrYel3D4/a70QhhHIjm
+F788,Dejuan,Schulist,dejuanschulist@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1438,$2b$10$87mhDPU5Wx9gP0rm5vp7dOXzgUKBvjovrQTrDoMxL57uW3cQrK1tu
+F1871,Breanna,Schmidt,breannaschmidt@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),1144,$2b$10$P1dhIftKI2Ahw3tSHP3B6O3Rv4G4uL6acWJ09xzv2SPaJyKlLckvW
+F1021,King,Trantow,kingtrantow@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),776,$2b$10$GVhGmsC4CZubYYSkpjFCV.g4NmH.oQLhBf45qqM91MFRHhs5TsVEq
+F342,Jamil,Murray,jamilmurray@lnmiit.ac.in,Assistant Professor,Humanities,383,$2b$10$sWsqC0TkGGm5mqndSkEc4uvBkmY7.F7i8AVWuT3NR51EGKHEQI2fC
+F533,Yadira,Grimes,yadiragrimes@lnmiit.ac.in,Professor,Computer Science(CSE),1682,$2b$10$6MUbD.DeO9058HlUepj0AuHVXmD1pVMFQ1ZAnLosVodiCvn2H2hfC
+F1148,Murphy,Senger,murphysenger@lnmiit.ac.in,Associate Professor,Computer Science(CSE),741,$2b$10$21d8YS5urSH7QXc38JrMPuR94plprsp9pdfxBnQHWNuXJzwycDJqK
+F1344,Rosalinda,Senger,rosalindasenger@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),180,$2b$10$Eg5wUYqdbRVNffdF8mzSZ.l6qeEXUC.wHFNL6eZ9eBBPz9UkQdv/u
+F1247,Rickey,Bode,rickeybode@lnmiit.ac.in,Professor,Humanities,799,$2b$10$.TZasXT8AIH1x6p6wVKOVeayjVQga9eEw1dnZbISGhw6c23QlFQDm
+F652,Pierre,Heller,pierreheller@lnmiit.ac.in,Assistant Professor,IT,1961,$2b$10$4PAe.WEGK4H/yT5tkKwMv.kenbS8tLU485dPm1MiB3M3xyqqgoZAO
+F679,Kristy,Schiller,kristyschiller@lnmiit.ac.in,Visiting Faculty,Humanities,851,$2b$10$YzpfvxiwJjq0USvIqGrkMu70cdSDz7vU6isH4Jus5ool56hweVw6q
+F452,Kenya,Feeney-Gislason,kenyafeeney-gislason@lnmiit.ac.in,Assistant Professor,Mathematics,781,$2b$10$QAMIfiifm8WBs45Oo1gY/OwYnoHK2o2tQw.SGtRNamxmPVwvfcwLW
+F1480,Leonie,Beier,leoniebeier@lnmiit.ac.in,Associate Professor,IT,1446,$2b$10$1qSYhGu1stMkTpwLxQFMB.97oiW2eAPAtq48ajTzc0WxO32ahAvwa
+F345,Marietta,Hoppe,mariettahoppe@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),1325,$2b$10$wSdzO9XXdsd/e7zOrLi9O.u0Fx6sLf7bs97AYWCNkY8SjvYST8sYG
+F559,Delilah,Leannon,delilahleannon@lnmiit.ac.in,Assistant Professor,IT,1744,$2b$10$lYQipb3QF8Lp7l18AqV/8u9exZQcLcD5KDg4eOEVbwyQuJALxJUF.
+F674,Mozell,Tromp,mozelltromp@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),765,$2b$10$4QlOPJ0MRZt9nsR23064XO6PtUe8uNGRvh07M2AkF3z.lGOFyF.ju
+F1127,King,Koch,kingkoch@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),709,$2b$10$EtkuFflPLHTi7JIF9eUef.TlKzGveA9xpyUCQjigBJV48/NzltEcu
+F295,Oral,Quigley,oralquigley@lnmiit.ac.in,Associate Professor,IT,1232,$2b$10$0kMbX3tkSL9uvkHJGjmxqeNeLHtSt/c/zhIAJgwSNDPfwuHnPuENS
+F1871,Antone,Lowe,antonelowe@lnmiit.ac.in,Professor,Humanities,1894,$2b$10$glzX73J53xyCMwHQ2W4nx.bmGyXQEHPvCObZ4XBIgcL5feoYu4GSa
+F544,Thad,Schaden,thadschaden@lnmiit.ac.in,Assistant Professor,Mechanical Engineering(ME),1665,$2b$10$QSp.05rtG6HOKrhp50xJzO5GHRGF3wudvO47l3sgetAjZCK8KnDYS
+F649,Eden,McKenzie,edenmckenzie@lnmiit.ac.in,Visiting Faculty,Humanities,295,$2b$10$eN4O..V8tBb0mXbdQQt1QOvMDkbxUUPA2xMJFVK514t3BrihZtYNC
+F1904,Asha,Bosco,ashabosco@lnmiit.ac.in,Professor,Mathematics,1001,$2b$10$osUb2bR2JXTr.wnQGvtt5.xEE.JEEswO3k8mj0XUs4gA2jhsa2HJi
+F1873,Alec,Anderson,alecanderson@lnmiit.ac.in,Professor,Computer Science(CSE),183,$2b$10$ZIqZLxVBbiNGKsk.T7nZrusEs6od1JbdFW0w1OdycTNMOb4vk1MOK
+F1266,Wilson,Wisoky,wilsonwisoky@lnmiit.ac.in,Associate Professor,Humanities,1564,$2b$10$kFb9niqgyRnIO2ZtzE92wOOFBS0pbkK6cr8zUxxapSG5mQP033T.6
+F1122,Columbus,Casper,columbuscasper@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),1837,$2b$10$hs7gOl9Rh9UCpcWGe/rGeuR0BUh0uE/IzBt1.BIXsowA.z5NYnp8m
+F1460,Danial,Homenick,danialhomenick@lnmiit.ac.in,Assistant Professor,Electronics and Communication(ECE),1343,$2b$10$bSLWj9QtbTZ8dXQt/TwT2.OA08HWSwvY0jnpK.vnWy41PqOwDD9f2
+F1305,Carlo,Bradtke,carlobradtke@lnmiit.ac.in,Professor,Mechanical Engineering(ME),640,$2b$10$tdAdYn2Zdsue5SHi9vzV3enbenDCP5hBuFGP9N2P0VzwR0uB0/PEi
+F1571,Mafalda,Friesen,mafaldafriesen@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),929,$2b$10$4Ndoe7vl36UEMOMVYYVgU.02Nr19DNBmo4re6AaLppdmLMN2nHQDW
+F560,Giles,Turcotte,gilesturcotte@lnmiit.ac.in,Assistant Professor,Humanities,904,$2b$10$BcyGYB7qZ.5WTpsTIKdgW.1DihYNp5C.Y0OSfOwXOY8ir3OvalzMW
+F559,Lexus,Morissette-Beatty,lexusmorissette-beatty@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),229,$2b$10$0FA94XxnwG/OzbOe0L1Kru3gSFH/l9sWLQKpmvBuFkciBq1B3asGm
+F1407,Royal,Dickinson,royaldickinson@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),892,$2b$10$uODUeCquUnF1DNGq1UVkL../2By0v7PtrXg3T3vxIUs7nfm.1TEyy
+F1605,Allison,Willms,allisonwillms@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),815,$2b$10$SyJmn0XZRQRO.pn7jtL2Je5cxWLWR38UXEgvQ7.X8Qb5aOvGuUm4C
+F1822,Casandra,Walsh,casandrawalsh@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),176,$2b$10$xP5Cp4URxzlcbL5APWEQ5ugOmumNmmqfD5Bt5AJAsDAX0FibmhPkS
+F68,Jess,Pagac,jesspagac@lnmiit.ac.in,Professor,Mathematics,344,$2b$10$wjnKXhafwCIWPWb/pFVXAe/e56T6QbO/.aLfjc/vYxQsoYRLOBpJ6
+F423,Tania,Adams,taniaadams@lnmiit.ac.in,Professor,Communication and Computer(CCE),977,$2b$10$ys2OrDqB/vWEY6G6rpJ3iOnuC1IFGroBIF3FzjeLwwOPfQmeVCLs6
+F1098,Raina,Friesen,rainafriesen@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),637,$2b$10$q73drjFBnvRXrOFtH.xkG.T1QS8vFMwKy0AorEsvBMwKJzEJVgy2.
+F666,Lauren,Schimmel,laurenschimmel@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),1528,$2b$10$zw5Ku/z6RSQn3n3qKp7xHeclyFuTwumVFhQiVzffFkMWIHqsEs0Z6
+F238,Shanny,Schowalter,shannyschowalter@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),813,$2b$10$YJ9PRqRPcXGy3wFqnB0blujeIBWoj1U/TRnpSrp6irIcaeGxvJ2Am
+F636,Peter,Satterfield,petersatterfield@lnmiit.ac.in,Visiting Faculty,Mathematics,716,$2b$10$oDpt8F4f6QJmCboG3ORrS.OFwVH0QdvTTrWrUbR97Krsd.f4X41Jy
+F1636,Guiseppe,Bosco,guiseppebosco@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),545,$2b$10$6Mo7xYNhm0VBjY989EKYBeBNV4cTXFgUW.ivFoe9x.a1qnSVCTp.W
+F1150,Cassandre,Padberg,cassandrepadberg@lnmiit.ac.in,Assistant Professor,Mechanical Engineering(ME),571,$2b$10$DeWq4jmuZzQzQMSBip/71O.iSsv3/uOQ/um1bFMCaRAHjAyK5cckS
+F1211,Kaley,Kilback,kaleykilback@lnmiit.ac.in,Professor,Mathematics,903,$2b$10$0sAXAOEuE6t7SXXZrU4c3.iFofVGgKBnsRDL9vv4UsA9kuEFcgO5e
+F1862,Peter,Mayer,petermayer@lnmiit.ac.in,Visiting Faculty,Humanities,1534,$2b$10$wZ4UpDzn9KKdaNMcWxfpL.m1/L5OTp6nM5N450ctY5DtIS1SnX6pu
+F359,Salvatore,Kohler-Heller,salvatorekohler-heller@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),1595,$2b$10$Ny7ROcCpUhIv.Llv.sFLCuUqg..RUJmROS08.E5B2c3mViqvj9INi
+F1657,Orville,Haag-Langosh,orvillehaag-langosh@lnmiit.ac.in,Visiting Faculty,Mathematics,1987,$2b$10$8Jsp1/DZBq9.IR/.xMNhC.nVW9bKZOoMBcecmYePjB9J5T.yL3w.e
+F1759,Tyra,Schulist-Orn,tyraschulist-orn@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),711,$2b$10$Tn/iLuiZAYko1qIBWDuhOObvchTnKCTOVWQq4tp92O6ngPIacmL4y
+F1143,Arely,Kuhic,arelykuhic@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),569,$2b$10$bouQw1Dk8rLzeaZJkVcqGurAUK17j0Kjy6rB1T8KwnuMuMXfdNkFe
+F833,Monty,Rau,montyrau@lnmiit.ac.in,Assistant Professor,Mechanical Engineering(ME),110,$2b$10$0Fip5ZNxY3LMMnt01SVWzOqj8LGsG4QGRzVslBwAzWlDBvNkrFt9a
+F652,Hailie,Kiehn,hailiekiehn@lnmiit.ac.in,Professor,Electronics and Communication(ECE),274,$2b$10$3Eq8c0JUnQiaZN2Kp9UwYOgGdmNpPc.4QqX8jI6nSWEEbwAyTXaLW
+F1890,Kiana,Lakin,kianalakin@lnmiit.ac.in,Professor,Communication and Computer(CCE),1390,$2b$10$Q1Am74vSjlCR9FPqnn0SiOy6F8vhu6ECzU5hAGvjCguNsXyqXYvTW
+F577,Tobin,Roberts,tobinroberts@lnmiit.ac.in,Professor,Communication and Computer(CCE),829,$2b$10$7psth9rXAkpyChM/AvkSiOh2tyUaaNpnbsu3XQrBVHYd7aNjdUHt2
+F881,Annalise,Connelly,annaliseconnelly@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),1815,$2b$10$GhZuSYWcugcIgbkIZYbDZOc3lpmUAIXtrk7DIuf3IOVxk/NYa3uYS
+F1738,Lilyan,Zboncak,lilyanzboncak@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),418,$2b$10$ScobYgbfhiWv9VUP.b6sKO6Bwzb2QkDIMwMlgsNjdhVdbg4B68u8y
+F895,Erin,Fisher,erinfisher@lnmiit.ac.in,Associate Professor,Mathematics,344,$2b$10$ri1h00gu5DiUl0yHhETK2.IHcNYhNCdHHcB8lvugJnrAHxBsUl73G
+F188,Gonzalo,O'Connell,gonzaloo'connell@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),263,$2b$10$x7UuCqQp0PGSmskZFwsCpOE51NEhorrHx4MEfxmzmaUtEHRhbzR7S
+F257,Fermin,Bergnaum,ferminbergnaum@lnmiit.ac.in,Assistant Professor,Mathematics,636,$2b$10$kxAL8Y.XZG3J9qCmigbZMOC7dL3krQ5Gmwb9Lrdy8CQw48B/F/xCm
+F844,Alex,Leffler,alexleffler@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),1981,$2b$10$Tw2fJF2YplPC18kl9vi1NeTcTj1iIQU4Od1b7mTsO4j3zRZVs6hEe
+F489,Edgardo,Roob-Powlowski,edgardoroob-powlowski@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),422,$2b$10$mKRD1jgV47f9/TgtIybZUuXKR05qroTv2..pcnjONMp4EqSlFfJS2
+F1073,Myrna,Schoen,myrnaschoen@lnmiit.ac.in,Associate Professor,Humanities,588,$2b$10$.8NRzzq/Hdoiq8s1ZYO1IeXcWyHKPne9tTqAsMQAEgHCvzfyDKCq6
+F1222,Kelvin,Padberg,kelvinpadberg@lnmiit.ac.in,Associate Professor,Computer Science(CSE),1015,$2b$10$V0BK3feFih1oTSW3dP9P..vd2guLvzeCXTvVieFkjk5/OUNHCOL6K
+F394,Makayla,Lemke,makaylalemke@lnmiit.ac.in,Associate Professor,Computer Science(CSE),623,$2b$10$XSyM1ZDqA4JMnpTbAdFHEu7oOAS2FzN3KRFJ4n0aE0c7Qhj.uxfvq
+F1661,Sylvia,Harris,sylviaharris@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),370,$2b$10$eAtOkNV16xG/aC10LUZWf.6xg.T4fMeE.J3BfunjYNmmC5KYxVutW
+F1974,Dane,Schoen,daneschoen@lnmiit.ac.in,Professor,Electronics and Communication(ECE),612,$2b$10$bpe3U3jbHloFOA462H5ge.kh2i1muOxbKoRxK.Rj2Tt65uoXLn2FG
+F132,Julius,Buckridge,juliusbuckridge@lnmiit.ac.in,Visiting Faculty,Humanities,258,$2b$10$YqhrsdQ7bNW5frRG0WE61.7DTZQU2.rHTXNtrcYtTsFK7lzLrMY0G
+F1984,Daren,Heaney,darenheaney@lnmiit.ac.in,Associate Professor,Humanities,1077,$2b$10$bKsQwsdm.YMvKuQMuw7GheqQnBu6jamZIJw44UcodGvm9PdQyEscy
+F1668,Rebeka,Stracke,rebekastracke@lnmiit.ac.in,Visiting Faculty,IT,340,$2b$10$DaWd9U0VxGw4FpeW7axqpOKpHxufSvduzSCDT8oAhMqRyvzmCLlea
+F1432,Mathew,Hirthe,mathewhirthe@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),343,$2b$10$CjPtaZVw3uAlx9fKDSCu2O7ISs65Tr6xV1yxow803HDIVgunua5im
+F1688,Lindsey,Murphy,lindseymurphy@lnmiit.ac.in,Visiting Faculty,Mathematics,882,$2b$10$zLmUm1WNZcqXHV2lOE16DuwIAYm7TH7V60nWw06hF0k/bIjuW2YZm
+F1324,Tom,Hills,tomhills@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),1288,$2b$10$LzGR6ZjQMiRwIX7ofGZBaeM3QLkGHpAFan69/0GH7nqv8tljgpK/m
+F799,Yolanda,Moore,yolandamoore@lnmiit.ac.in,Visiting Faculty,Mathematics,498,$2b$10$9oyI9HdcqSZv8Fu1aQoPAePUhdvZSM47cnZQoimOElTHJddYPUex6
+F137,Rosina,Willms,rosinawillms@lnmiit.ac.in,Assistant Professor,Mechanical Engineering(ME),204,$2b$10$c9xr2GJtO1xzGleeHbIB4.3i.Mf.dJ363TBCMEHFT0QugGiM/Gls2
+F1881,Oran,Ferry,oranferry@lnmiit.ac.in,Assistant Professor,IT,1709,$2b$10$6bZ18/l2lhTKGiREjf/EM.zU/k.bdxJrAgDtKmOj6lpm5grbTW20i
+F1465,Mireille,Bayer,mireillebayer@lnmiit.ac.in,Assistant Professor,IT,451,$2b$10$BB.6as8LbuQPMoUvDTRpieWgX5veUpLr8HmLCEqr4uam1xZ8FL8CK
+F888,Milton,Hayes,miltonhayes@lnmiit.ac.in,Professor,Computer Science(CSE),1924,$2b$10$0M3GB9XIoqazjhqJEkn4m.tcESYdViJ1E79.kDcqQdQkqSD8/x7LC
+F1987,Liam,Rutherford,liamrutherford@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),1516,$2b$10$weZA/W4Ag1mC5hvcRFDmjeIJkvGqRzbR2OzJ3aU5la11FWJGn4iKy
+F680,Candice,Berge,candiceberge@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),1655,$2b$10$WQ5M.KjEAkIDfP8eWcw0d.Qsy/F3SHvLxO.t5iaSFnUJOnxSvgP/S
+F1795,Ken,Stanton,kenstanton@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),1416,$2b$10$9IBgzgmWPUouP1aiYyamHuSa4AJYxlLn6lGA4rcJr/fCDhQQ83BYy
+F1291,Toney,Maggio,toneymaggio@lnmiit.ac.in,Visiting Faculty,Mathematics,1727,$2b$10$23XP9BY9UUEjHAYrfbOK3OvwqjPCNl42j9wiH4ozH2Egf1AQ/SouS
+F1736,Barry,Kassulke,barrykassulke@lnmiit.ac.in,Professor,Electronics and Communication(ECE),852,$2b$10$qzh5daHLSk14Q5wJlJJUBOY/lNfi6Aee2FQPjy/qqPKpPAtyQ9Gcy
+F555,Katharina,Strosin,katharinastrosin@lnmiit.ac.in,Visiting Faculty,Computer Science(CSE),280,$2b$10$LuJ2jMMc50OL4CpY8p0FZuhC1N2EefIKcrR3lzqIiIGzI27E2i1TO
+F1868,Mona,Halvorson,monahalvorson@lnmiit.ac.in,Assistant Professor,Mathematics,1947,$2b$10$zFMLlvSgeEdldDerxd5nSunj8C1IBkzI7Fq9PH2e4a8zvByrkRjlG
+F758,Sam,Kris,samkris@lnmiit.ac.in,Professor,IT,1607,$2b$10$E31eOZHTaQPDHTf71M6Dae5OHMgebKKidQrvAWeymRQbHcWPEzp86
+F544,Lucio,Stiedemann,luciostiedemann@lnmiit.ac.in,Associate Professor,Communication and Computer(CCE),1298,$2b$10$xyd28ZXNf9xVn7PPGvO.ruWAav.gTI6ixlvspf8/XyWlmUtxDcJki
+F1255,Jessika,Murray,jessikamurray@lnmiit.ac.in,Associate Professor,IT,423,$2b$10$jWp3SB1T2m7NjMf1buW/fu0SwCWJ6Mwz2bkTOpiGZ5DUK4gXonaAi
+F1058,Hyman,Sawayn,hymansawayn@lnmiit.ac.in,Assistant Professor,Mathematics,1148,$2b$10$UaIaiggtvQv6.L8WfKg3VOc/VqJfHUN3GirAw6r4zgCAdGYfHO1Fe
+F1668,Jaleel,Collins,jaleelcollins@lnmiit.ac.in,Visiting Faculty,Electronics and Communication(ECE),1992,$2b$10$qyrADhi.I3eeq3YberEFm.hEV4CecZ.wW5XqXtHuYgFCq8bpS7MQ6
+F290,Jackson,Greenholt,jacksongreenholt@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),1929,$2b$10$e/l8OdAiYCaKkH0/nIJ9/.CJUQwGGSd8we6rtxtaWoJhcPayDYrAy
+F1984,Tristian,Emmerich,tristianemmerich@lnmiit.ac.in,Associate Professor,Computer Science(CSE),687,$2b$10$AfkEguWR5R8/2KE5mKQ51eAum7XlVou.rPG21Var3Nz3R7Ls9iV3W
+F1895,Zachery,Ondricka,zacheryondricka@lnmiit.ac.in,Visiting Faculty,Mathematics,321,$2b$10$RGqHh1R2QIiIEMvZcr0mDuVRlqK94XgyyPwFjtdtdC1D8VARm9D12
+F1024,Gonzalo,Rau,gonzalorau@lnmiit.ac.in,Professor,Computer Science(CSE),1491,$2b$10$vZpAplVBFSHdUkZC8ojPae8yFodWeaBLqm4Gd4d8bKxwPpoy8X75C
+F31,Sherwood,Treutel,sherwoodtreutel@lnmiit.ac.in,Associate Professor,IT,451,$2b$10$V3HvH.hX9rzAFTSbaHM1muwIV1eoZIBnBVR9PNaszUOH.v5okS/ya
+F620,Palma,Legros,palmalegros@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),820,$2b$10$WKZH0e36sLVzxZGlkSn11OY3g2WqxbWT/uORcDdPM2US7Ylfa7yXW
+F294,Serenity,Zemlak,serenityzemlak@lnmiit.ac.in,Professor,Mathematics,1767,$2b$10$S//CniR.2SGunrjhXcIYp.vCugr6VxG55Yy5jKYXmSWMZyBu8Ya8y
+F744,Owen,Wiegand,owenwiegand@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),634,$2b$10$eBjcJ/Ig9nJ2LJlTjujZxeo0GSxw/m5MqZyzdbzoGfb0ggzLR/Ra6
+F436,Darryl,Murray,darrylmurray@lnmiit.ac.in,Associate Professor,Electronics and Communication(ECE),304,$2b$10$2s2AT7H/46xlfEVTEjZO7.cbrAVfkAc66amjeEElm2xI/V8vgFK4e
+F1123,Oscar,Kulas,oscarkulas@lnmiit.ac.in,Assistant Professor,Mathematics,749,$2b$10$DYAVKKel9nStE3jc9szoj.WEXwptIdvv84DTSomjXYcKAC8w6AsPa
+F649,Lila,Jenkins,lilajenkins@lnmiit.ac.in,Assistant Professor,Mathematics,237,$2b$10$WD95dPeqW3w8BO/W6F1HuutZGlaIGV0nGtDcoaJMDL3otg1J997lm
+F304,Andrew,Simonis-Larson,andrewsimonis-larson@lnmiit.ac.in,Professor,Computer Science(CSE),1503,$2b$10$GPX9L/CrEbckzsEOrn1.muyfZaM8f6ddkT4kNvqfilQbPastz/JlW
+F1984,Lia,Smitham,liasmitham@lnmiit.ac.in,Associate Professor,Mechanical Engineering(ME),364,$2b$10$X1AzChejKp04zI4mR1wv.uArDpR/3tuaPo2BDpXevOiFjvruH9N1q
+F790,Moriah,Homenick,moriahhomenick@lnmiit.ac.in,Professor,IT,742,$2b$10$.onuI0c6QlBlG6zWXm2MC.9JurtQWtD6flvrSNGvhRnypIHNUpvs6
+F787,Ezra,Ratke,ezraratke@lnmiit.ac.in,Associate Professor,Mathematics,628,$2b$10$qpbbEQ5Zs6hWcphN8lb8ouhJxD/H2A7.by1qfgRyDc6hPjUyusaxa
+F986,Annabell,Hirthe,annabellhirthe@lnmiit.ac.in,Assistant Professor,Communication and Computer(CCE),1501,$2b$10$HTDGhgZX0pwMGmI2yHfuHujtQ03x266TJqNyLIzjiOmlh7yIpJhnS
+F506,Micheal,Sauer,michealsauer@lnmiit.ac.in,Professor,Humanities,1266,$2b$10$fgGSoGZxthJAs9Oz8.3uD..ICKXE7BIPC3JPV4hKTBhI4uCnmqnP.
+F1781,Ruby,Emard,rubyemard@lnmiit.ac.in,Assistant Professor,Computer Science(CSE),1094,$2b$10$1eejy1yJznCSq6L11yTHMupV32o1outpQMj0CM7tpJz7.p0Fq5vrm
+F1918,Omari,Kuphal,omarikuphal@lnmiit.ac.in,Visiting Faculty,Mechanical Engineering(ME),1851,$2b$10$gZhug0NlWHUiDKfLEfuYg.wcppOmz4DuZzr5yAyo4BwhrHuzoHS2y
+F792,Ezequiel,Mann,ezequielmann@lnmiit.ac.in,Professor,Electronics and Communication(ECE),1674,$2b$10$3gnbALBEE8OLiSL0qcJdQu.B9c0DmNJ4xoVaPIsOHObFuMGa6t21y
+F259,Eldridge,D'Amore,eldridged'amore@lnmiit.ac.in,Visiting Faculty,Communication and Computer(CCE),871,$2b$10$UAuEtMS2ydOauKreUKXbXuk8BOAnL5iINrANS8m8GQM.4AMSyEVa6
+F1404,Zoe,O'Reilly,zoeo'reilly@lnmiit.ac.in,Associate Professor,Computer Science(CSE),904,$2b$10$SYUOiCdZKLuDFMEcrAmRHe1dTN3zWeSKLWLg36/8Nwv/V5tv2C4vm

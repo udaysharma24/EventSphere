@@ -1,0 +1,41 @@
+# ─── Node.js ───
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ─── Next.js / React ───
+.next/
+out/
+.cache/
+dist/
+build/
+*.log
+coverage/
+
+# ─── Environment Variables ───
+.env
+.env.local
+.env.*.local
+server/.env
+client/.env
+
+# ─── Generated Docs ───
+server/generated/
+*.docx
+
+# ─── Temporary Files ───
+*.tmp
+*.temp
+
+# ─── System Files ───
+.DS_Store
+Thumbs.db
+
+# ─── IDE Files ───
+.vscode/
+.idea/
+
+# ─── Cloud Sync ───
+.onedrive/
+*.lnk
